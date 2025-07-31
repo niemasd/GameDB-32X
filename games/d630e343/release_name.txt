@@ -1,1 +1,1 @@
-Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).32x
+Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)

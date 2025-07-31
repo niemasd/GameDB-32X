@@ -1,1 +1,1 @@
-Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).32x
+Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)
